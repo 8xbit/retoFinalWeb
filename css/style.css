@@ -163,7 +163,7 @@ nav ul li a:hover {
 }
 
 .main {
-	background-color: #EEEEEE;
+	background-color: rgba(238, 238, 238, 0.75); 
 	height: fit-content;
 	width: 80%;
 	margin: auto;
@@ -285,7 +285,7 @@ td {
 }
 
 th {
-	background-color: #f2f2f2;
+	background-color: rgba(238, 238, 238, 0.8); 
 }
 
 /* css footer */
@@ -621,7 +621,7 @@ label {
     flex-direction: column;
     justify-content: center;
     padding: 20px;
-    background-color: #fbfbfb;
+    background-color: rgba(238, 238, 238, 0.65); 
     border-radius: 0 0 20px 0;
 }
 
@@ -691,3 +691,141 @@ label {
     margin: 0 5px;
     color: #333;
 }
+
+
+.login-form {
+    width: 300px;
+    margin: auto;
+    background-color: rgba(238, 238, 238, 0.9); 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.login-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #ff0000; /* Cambiar el color del título */
+}
+
+.login-form label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #333;
+}
+
+.login-form input[type="text"],
+.login-form input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.login-form input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ff0000; /* Cambiar el color de fondo del botón */
+    color: #fff;
+    cursor: pointer;
+}
+
+.login-form input[type="submit"]:hover {
+    background-color: #cc0000; /* Cambiar el color de fondo del botón al pasar el ratón */
+}
+
+.error-message {
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+
+/* Media query para hacer que el formulario sea responsivo */
+@media (max-width: 500px) {
+    .login-form {
+        width: 90%;
+    }
+}
+
+
+@keyframes shake {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    50% { transform: translateX(5px); }
+    75% { transform: translateX(-5px); }
+    100% { transform: translateX(0); }
+}
+
+.shake {
+    animation: shake 0.5s ease-in-out;
+}
+
+#fondoElden {
+	background-image: url('../images/fondoLog.jpeg');
+	background-size: cover; /* Ajusta el tamaño de la imagen para que cubra todo el contenedor */
+	background-repeat: no-repeat;
+	background-position: center; /* Centra la imagen en el contenedor */
+	background-attachment: fixed; /* Fija la imagen para que se mantenga en su posición al hacer scroll */
+  }
+
+  #fondoBlood {
+	background-image: url('../images/bloodF.jpeg');
+	background-size: cover; /* Ajusta el tamaño de la imagen para que cubra todo el contenedor */
+	background-repeat: no-repeat;
+	background-position: center; /* Centra la imagen en el contenedor */
+	background-attachment: fixed; /* Fija la imagen para que se mantenga en su posición al hacer scroll */
+  }
+
+  #fondoDemon {
+	background-image: url('../images/demonF.jpeg');
+	background-size: cover; /* Ajusta el tamaño de la imagen para que cubra todo el contenedor */
+	background-repeat: no-repeat;
+	background-position: center; /* Centra la imagen en el contenedor */
+	background-attachment: fixed; /* Fija la imagen para que se mantenga en su posición al hacer scroll */
+  }
+
+  #fondoSekiro {
+	background-image: url('../images/sekiroF.jpeg');
+	background-size: cover; /* Ajusta el tamaño de la imagen para que cubra todo el contenedor */
+	background-repeat: no-repeat;
+	background-position: center; /* Centra la imagen en el contenedor */
+	background-attachment: fixed; /* Fija la imagen para que se mantenga en su posición al hacer scroll */
+  }
+
+  #fondods1 {
+	background-image: url('../images/ds1F.jpeg');
+	background-size: cover; /* Ajusta el tamaño de la imagen para que cubra todo el contenedor */
+	background-repeat: no-repeat;
+	background-position: center; /* Centra la imagen en el contenedor */
+	background-attachment: fixed; /* Fija la imagen para que se mantenga en su posición al hacer scroll */
+  }
+
+  #fondods2 {
+	background-image: url('../images/ds2F.jpeg');
+	background-size: cover; /* Ajusta el tamaño de la imagen para que cubra todo el contenedor */
+	background-repeat: no-repeat;
+	background-position: center; /* Centra la imagen en el contenedor */
+	background-attachment: fixed; /* Fija la imagen para que se mantenga en su posición al hacer scroll */
+  }
+
+  #fondods3 {
+	background-image: url('../images/ds3F.jpeg');
+	background-size: cover; /* Ajusta el tamaño de la imagen para que cubra todo el contenedor */
+	background-repeat: no-repeat;
+	background-position: center; /* Centra la imagen en el contenedor */
+	background-attachment: fixed; /* Fija la imagen para que se mantenga en su posición al hacer scroll */
+  }
+
+  
+
+
+
+
+
+  
+  

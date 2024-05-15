@@ -10,7 +10,7 @@
         <title>Game Information</title>
         
       </head>
-      <body>
+      <body id = "fondods3">
         
         <header>
           <div class="top"></div>

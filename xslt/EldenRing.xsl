@@ -10,7 +10,7 @@
         <title>Game Information</title>
         
       </head>
-      <body>
+      <body id="fondoElden">
         
         <header>
           <div class="top"></div>
