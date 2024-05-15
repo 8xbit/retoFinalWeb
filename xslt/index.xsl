@@ -91,7 +91,7 @@
           <h3><xsl:value-of select="nombre"/></h3>
         </div>
       <div class="boss-image">
-        <img src="{imagen}" alt="{nombre}"/>
+        <img src="{concat('images/', imagen)}" alt="{nombre}"/>
       </div>
       <div class="boss-info">
         <div class="boss-details">

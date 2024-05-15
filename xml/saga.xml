@@ -214,7 +214,7 @@
                 <arma>lanzas</arma>
                 <arma>escudos</arma>
             </armas>
-            <imagen>images/falange.jpeg</imagen>
+            <imagen>falange.jpeg</imagen>
             <localizacion>Palacio de Boletaria</localizacion>
         </boss>
 
@@ -226,7 +226,7 @@
                 <arma>Gran Escudo</arma>
                 <arma>Gran Lanza</arma>
             </armas>
-            <imagen>images/ctorre.jpeg</imagen>
+            <imagen>ctorre.jpeg</imagen>
             <localizacion>Palacio de Boletaria</localizacion>
         </boss>
 
@@ -237,7 +237,7 @@
             <armas>
                 <arma>Hacha Gigante</arma>
             </armas>
-            <imagen>images/juez.jpeg</imagen>
+            <imagen>juez.jpeg</imagen>
             <localizacion>Santuario de Tormentas</localizacion>
         </boss>
 
@@ -249,7 +249,7 @@
             <armas>
                 <arma>Gran Mazo</arma>
             </armas>
-            <imagen>images/asylum.jpeg</imagen>
+            <imagen>asylum.jpeg</imagen>
             <localizacion>Asylum del Norte</localizacion>
         </boss>
 
@@ -261,7 +261,7 @@
                 <arma>Alabarda de Ornstein</arma>
                 <arma>Martillo de Smough</arma>
             </armas>
-            <imagen>images/orn.jpeg</imagen>
+            <imagen>orn.jpeg</imagen>
             <localizacion>Anor Londo</localizacion>
         </boss>
 
@@ -272,7 +272,7 @@
             <armas>
                 <arma>Gran Espada</arma>
             </armas>
-            <imagen>images/gwyn.jpeg</imagen>
+            <imagen>gwyn.jpeg</imagen>
             <localizacion>Kiln del Primer Fuego</localizacion>
         </boss>
 
@@ -284,7 +284,7 @@
             <armas>
                 <arma>Garras Gigantes</arma>
             </armas>
-            <imagen>images/ultimo.jpeg</imagen>
+            <imagen>ultimo.jpeg</imagen>
             <localizacion>Bosque de los Gigantes Caídos</localizacion>
         </boss>
 
@@ -295,7 +295,7 @@
             <armas>
                 <arma>Martillo Real</arma>
             </armas>
-            <imagen>images/velstadt.jpeg</imagen>
+            <imagen>velstadt.jpeg</imagen>
             <localizacion>Aliento del Dragón</localizacion>
         </boss>
 
@@ -307,7 +307,7 @@
             <armas>
                 <arma>Maza Clérigo</arma>
             </armas>
-            <imagen>images/clerigo.jpeg</imagen>
+            <imagen>clerigo.jpeg</imagen>
             <localizacion>Central Yharnam</localizacion>
         </boss>
 
@@ -319,7 +319,7 @@
                 <arma>Hacha de Caza</arma>
                 <arma>Pistola de Sangre</arma>
             </armas>
-            <imagen>images/padre.jpeg</imagen>
+            <imagen>padre.jpeg</imagen>
             <localizacion>Distrito de las Tumbas</localizacion>
         </boss>
 
@@ -331,7 +331,7 @@
                 <arma>Orbe Cósmico</arma>
                 <arma>Placenta Inhumana</arma>
             </armas>
-            <imagen>images/kos.jpeg</imagen>
+            <imagen>kos.jpeg</imagen>
             <localizacion>Costa de la Pesadilla de la Caza</localizacion>
         </boss>
         
@@ -344,7 +344,7 @@
                 <arma>Espada de Fuego</arma>
                 <arma>Guadaña de las Sombras</arma>
             </armas>
-            <imagen>images/abyss.jpeg</imagen>
+            <imagen>abyss.jpeg</imagen>
             <localizacion>Catacumbas de Carthus</localizacion>
         </boss>
 
@@ -356,7 +356,7 @@
                 <arma>Alas de Fuego</arma>
                 <arma>Garras Ardientes</arma>
             </armas>
-            <imagen>images/midir.jpeg</imagen>
+            <imagen>midir.jpeg</imagen>
             <localizacion>Fortaleza de Lothric</localizacion>
         </boss>
 
@@ -369,7 +369,7 @@
                 <arma>Escudo de Lothric</arma>
                 <arma>Magia de Lothric</arma>
             </armas>
-            <imagen>images/lorian.jpeg</imagen>
+            <imagen>lorian.jpeg</imagen>
             <localizacion>Gran Salón de la Torre</localizacion>
         </boss>
 
@@ -382,7 +382,7 @@
                 <arma>Katana de Ashina</arma>
                 <arma>Arcos y Flechas</arma>
             </armas>
-            <imagen>images/sk_genichiro.jpg</imagen>
+            <imagen>sk_genichiro.jpg</imagen>
             <localizacion>Castillo Ashina</localizacion>
         </boss>
 
@@ -394,7 +394,7 @@
                 <arma>Garras Afiladas</arma>
                 <arma>Grito Aterrador</arma>
             </armas>
-            <imagen>images/ape.jpeg</imagen>
+            <imagen>ape.jpeg</imagen>
             <localizacion>Valle del Mono</localizacion>
         </boss>
 
@@ -406,7 +406,7 @@
                 <arma>Katana Sagrada</arma>
                 <arma>Lanza Divina</arma>
             </armas>
-            <imagen>images/isshin.jpeg</imagen>
+            <imagen>isshin.jpeg</imagen>
             <localizacion>Torre del Cielo</localizacion>
         </boss>
 
@@ -419,7 +419,7 @@
                 <arma>Hand of Malenia</arma>
                 <arma>Red rot</arma>
             </armas>
-            <imagen>images/malenia.jpg</imagen>
+            <imagen>malenia.jpg</imagen>
             <localizacion>Elphael</localizacion>
         </boss>
 
@@ -431,7 +431,7 @@
                 <arma>Espadones</arma>
                 <arma>Arco</arma>
             </armas>
-            <imagen>images/radahn.jpeg</imagen>
+            <imagen>radahn.jpeg</imagen>
             <localizacion>Redmane castle</localizacion>
         </boss>
 
@@ -443,7 +443,7 @@
                 <arma>Aliento magico</arma>
                 <arma>Poderes gravitatorios</arma>
             </armas>
-            <imagen>images/eld_astel.jpeg</imagen>
+            <imagen>eld_astel.jpeg</imagen>
             <localizacion>Grand Cloister</localizacion>
         </boss>
 

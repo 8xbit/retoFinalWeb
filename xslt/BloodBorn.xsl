@@ -94,7 +94,7 @@
         </div>
         <div class="game-info-content">
           <div class="game-info-image">
-            <img src="{concat('../../images/', imagen)}" alt="Game Image" />
+             <img src="{concat('../../images/', imagen)}" alt="Game Image" />
           </div>
           <div class="game-info-text">
             <div class="game-desc">
@@ -161,7 +161,7 @@
       <xsl:value-of select="nombre" />
     </td>
     <td>
-      <img src="{concat('../../', imagen)}" alt="Imagen" style="width: 100%; height: auto;" />
+      <img src="{concat('../../images/', imagen)}" alt="Imagen" style="width: 100%; height: auto;" />
     </td>
     <td>
       <xsl:value-of select="descripcion" />
