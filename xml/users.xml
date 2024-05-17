@@ -3,5 +3,17 @@
         <name>admin</name>
         <password>1234</password>
         <role>admin</role>
+        <name>alder</name>
+        <password>1234</password>
+        <role>admin</role>
+        <name>borja</name>
+        <password>1234</password>
+        <role>admin</role>
+        <name>enzo</name>
+        <password>1234</password>
+        <role>admin</role>
+        <name>omar</name>
+        <password>1234</password>
+        <role>admin</role>
     </user>
 </users>

@@ -37,3 +37,9 @@
                 console.error('Error fetching XML data:', error);
             });
     });
+
+
+    window.onload = function() {
+        alert("Operation completed successfully");
+        window.location.href = "./Transformations/dashboard.php"; // Replace with your target page
+    };

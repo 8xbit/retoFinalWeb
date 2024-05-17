@@ -12,6 +12,7 @@ declare variable $localizacion external := $localizacion;
 declare variable $bossId external := $bossId;
 
 
+let $imagen := //boss[@id=$bossId]/imagen
 
 let $boss :=
     <boss id="{$bossId}" juego="{$juego}">
@@ -22,6 +23,7 @@ let $boss :=
             <arma>{$arma1}</arma>
             <arma>{$arma2}</arma>
         </armas>
+        <imagen>{$imagen}</imagen>
         <localizacion>{$localizacion}</localizacion>
     </boss>
 
